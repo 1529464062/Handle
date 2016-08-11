@@ -1,0 +1,5 @@
+E:\test\handle\handle\handle\bin\handle.dll.config
+E:\test\handle\handle\handle\bin\handle.dll
+E:\test\handle\handle\handle\bin\handle.pdb
+E:\test\handle\handle\handle\obj\Release\handle.dll
+E:\test\handle\handle\handle\obj\Release\handle.pdb

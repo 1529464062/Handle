@@ -1,0 +1,6 @@
+E:\test\handle\handle\handle\bin\handle.dll.config
+E:\test\handle\handle\handle\bin\handle.dll
+E:\test\handle\handle\handle\bin\handle.pdb
+E:\test\handle\handle\handle\obj\Debug\handle.csprojResolveAssemblyReference.cache
+E:\test\handle\handle\handle\obj\Debug\handle.dll
+E:\test\handle\handle\handle\obj\Debug\handle.pdb
